@@ -1,2 +1,2 @@
 # ml
-Learning machine learning with python
+Learning machine with python
