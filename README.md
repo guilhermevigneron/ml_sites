@@ -1,6 +1,6 @@
 # ml
-Learning machine with python
+Machine learning projects with python
 
 Links:
 
-https://towardsdatascience.com/a-beginners-guide-to-sentiment-analysis-in-python-95e354ea84f6?gi=ae4d8b4e7ba6
+https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_webcam_faster.py
