@@ -13,4 +13,4 @@ Jarvis like assistant:
 https://www.youtube.com/watch?v=CumHy6v7un0&t=181s
 
 Stock price prediction:
-https://www.thepythoncode.com/article/stock-price-prediction-in-python-using-tensorflow-2-and-keras
+https://www.youtube.com/watch?v=QIUxPv5PJOY&t=905s
