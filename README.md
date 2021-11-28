@@ -17,6 +17,8 @@ https://www.youtube.com/watch?v=QIUxPv5PJOY&t=905s
 
 Time series forecasting:
 https://www.tensorflow.org/tutorials/structured_data/time_series
+https://www.youtube.com/watch?v=6f67zrH-_IE
+https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/23_Time-Series-Prediction.ipynb
 
 
 
